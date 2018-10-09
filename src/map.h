@@ -8,6 +8,10 @@
 #ifndef MAP_H_
 #define MAP_H_
 
+#include <iostream>
+#include <vector>
+
+
 class Map {
 public:
 	
